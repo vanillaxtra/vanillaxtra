@@ -6,7 +6,7 @@ I code sometimes for fun.
 ![streak](https://streak-stats.demolab.com/?user=vanillaxtra&hide_border=true&border_radius=16&background=135,1a1b27,2d1b69&ring=ff79c6&fire=ff79c6&currStreakLabel=ff79c6&sideLabels=f8f8f2&currStreakNum=f8f8f2&sideNums=f8f8f2&dates=8b949e)
 
 ### Favourites
-![langs](https://skillicons.dev/icons?i=java,kotlin,gradle,maven,git,github,python,javascript,nodejs,docker,cloudflare&theme=dark)
+![langs](https://skillicons.dev/icons?i=java,kotlin,gradle,maven,git,github,python,javascript,nodejs,docker,cloudflare,powershell,ubuntu&theme=dark)
 
 I just make stuff i need and upload it for everyone here:
 
