@@ -9,7 +9,7 @@ I code sometimes for fun.
 <p>
   <img src="https://skillicons.dev/icons?i=java,kotlin,gradle,maven,git,github,python,javascript,nodejs&theme=dark" height="48" />
   <br>
-  <img src="https://skillicons.dev/icons?i=docker,cloudflare,mysql,vscode,redis,sqlite&theme=dark" height="48" />&nbsp;&nbsp;<img src="assets/paper.png" height="48" title="Paper" />&nbsp;&nbsp;<img src="assets/purpur.png" height="48" title="Purpur" />&nbsp;&nbsp;<img src="assets/leaf.png" height="48" title="Leaf" />&nbsp;&nbsp;<img src="assets/velocity.png" height="48" title="Velocity" />&nbsp;&nbsp;<img src="assets/fabric.png" height="48" title="Fabric" />&nbsp;&nbsp;<img src="assets/cursor.png" height="48" title="Cursor" />
+  <img src="https://skillicons.dev/icons?i=docker,cloudflare,mysql,vscode,redis,sqlite&theme=dark" height="48" />&nbsp;&nbsp;<img src="assets/paper.png" height="48" title="Paper" />&nbsp;&nbsp;<img src="assets/purpur.png" height="48" title="Purpur" />&nbsp;&nbsp;<img src="assets/leaf.png" height="48" title="Leaf" />&nbsp;&nbsp;<br><img src="assets/velocity.png" height="48" title="Velocity" />&nbsp;&nbsp;<img src="assets/fabric.png" height="48" title="Fabric" />&nbsp;&nbsp;<img src="assets/cursor.png" height="48" title="Cursor" />
 </p>
 
 I just make stuff i need and upload it for everyone here:
