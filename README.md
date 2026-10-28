@@ -7,7 +7,9 @@ I code sometimes for fun.
 
 ### Favourites
 <p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,gradle,maven,git,github,python,javascript,nodejs,docker,cloudflare,mysql,vscode,redis,sqlite&theme=dark" height="48" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,gradle,maven,git,github,python,javascript,nodejs&theme=dark" height="48" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=docker,cloudflare,mysql,vscode,redis,sqlite&theme=dark" height="48" />
   <img src="assets/paper.png" height="48" title="Paper" />
   <img src="assets/purpur.png" height="48" title="Purpur" />
   <img src="assets/leaf.png" height="48" title="Leaf" />
